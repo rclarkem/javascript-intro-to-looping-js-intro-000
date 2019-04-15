@@ -12,9 +12,9 @@ let str1 = ""
 }
 
 function whileLoop (n) {
-let i = 0
+let i = 8
   while(i > 0){
     i--
   }
-  return i  
+  return i
 }
