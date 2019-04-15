@@ -10,3 +10,11 @@ let str1 = ""
   }
   return arr
 }
+
+function whileLoop (n) {
+let i = 0
+  while(i > 0){
+    i--
+  }
+  return i  
+}
