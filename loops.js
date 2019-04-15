@@ -8,4 +8,5 @@ let str1 = ""
     }
 
   }
+  return arr
 }
